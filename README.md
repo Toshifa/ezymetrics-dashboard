@@ -49,3 +49,11 @@ react-router-dom: For handling routing/navigation between different pages.
     npm start
     
 4.Open http://localhost:3000 in your browser to view the project.
+
+------------------------------------------------------------------------------------------
+## Figma Design
+
+View the Figma design for the EzyMetrics Dashboard :
+
+
+https://www.figma.com/design/FIvKQh6BLdIKuzFH1B3pRA/EzyMetrics-Dashboard?node-id=0-1&t=deNDIHfLPLOptCds-1
